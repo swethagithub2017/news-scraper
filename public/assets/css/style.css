@@ -1,0 +1,31 @@
+body{
+  font-family: 'times';
+}
+.container{
+  background-color: yellow;
+}
+#displayNewspaper {
+    background-image: url("../img/giphy.gif");
+    color: white;
+    height: 250px;
+}
+
+.card-img-top {
+  height: 140px;
+  width: 238px;
+}
+
+li {
+  font-size: 20px;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.saveArticle {
+  background-color: #F8C471;
+  border-color: #F8C471;
+}
+
+
